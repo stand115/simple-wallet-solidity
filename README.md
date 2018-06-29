@@ -2,9 +2,9 @@
 
 A simple wallet built using Solidity
 
-## description
+## Description
 
-Building a simple wallet as an exercise to learn Solidity.
+An exercise to get more familiar with Solidity
 
 Functionality covered:
 
