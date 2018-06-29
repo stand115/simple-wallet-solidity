@@ -13,3 +13,4 @@ Functionality covered:
     - Whitelisting/blacklisting of wallet addresses
     - Modifiers, mappings and structs
     - Event emmissions
+    - Inheritance, getters & setters
