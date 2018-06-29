@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
 
-import "browser/mortal.sol";
+import "mortal.sol";
 
 // inheritance is allowed
 contract SimpleWallet is Mortal {
